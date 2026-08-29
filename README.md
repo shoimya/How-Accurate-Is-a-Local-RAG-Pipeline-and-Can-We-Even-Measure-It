@@ -61,3 +61,7 @@ pdflatex -output-directory=report report/report.tex
 - Ollama, running `llama3.1:8b-instruct-q4_K_M` (generator) and `phi3:mini` (judge) locally
 - TriviaQA (`mandarjoshi/trivia_qa`, `rc` config, `validation` split)
 - BasicTeX for the report
+
+<p align="center">
+  <img src="How_Accurate_Is_a_Local_RAG_Pipeline__and_Can_We_Even_Measure_It_.pdf" width="700">
+</p>
