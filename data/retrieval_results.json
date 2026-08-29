@@ -1,0 +1,6459 @@
+{
+  "model": "all-MiniLM-L6-v2",
+  "recall_at_k": {
+    "1": 0.7666666666666667,
+    "3": 0.8666666666666667,
+    "5": 0.9
+  },
+  "n_questions": 90,
+  "per_question": [
+    {
+      "question_id": "qw_1978",
+      "question": "What was first worn by British soldiers in India in 1845?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6390979290008545,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 5,
+          "score": 0.6285797953605652,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 4,
+          "score": 0.5602118372917175,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 6,
+          "score": 0.5188181400299072,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.5106714367866516,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.49515649676322937,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.47994929552078247,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 8,
+          "score": 0.47931087017059326,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.4785098433494568,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.47281503677368164,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qb_1253",
+      "question": "Which US gangster was released from Alcatraz prison in November 1939?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.7121767997741699,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.687341570854187,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6858029365539551,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 9,
+          "score": 0.6622838973999023,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 8,
+          "passage_index": 4,
+          "score": 0.6363259553909302,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 5,
+          "passage_index": 7,
+          "score": 0.6361247301101685,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 4,
+          "passage_index": 7,
+          "score": 0.6233941316604614,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 20,
+          "score": 0.6227492094039917,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 5,
+          "passage_index": 8,
+          "score": 0.6219252347946167,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 8,
+          "score": 0.6194537281990051,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bt_2047",
+      "question": "Of which tribe of Red Indians was Geronimo a chief",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6226831674575806,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6193940043449402,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 18,
+          "score": 0.6143781542778015,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.5672745704650879,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.5618945956230164,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.5487557053565979,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5486102104187012,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 5,
+          "passage_index": 5,
+          "score": 0.545315682888031,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.529024600982666,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 3,
+          "score": 0.526455819606781,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "odql_5758",
+      "question": "Which rank of the RAF is equivalent to Major in the British Army?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 24,
+          "score": 0.732330858707428,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 25,
+          "score": 0.6400388479232788,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 29,
+          "score": 0.6235113143920898,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6134466528892517,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 18,
+          "score": 0.6033995747566223,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 21,
+          "score": 0.5975938439369202,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 47,
+          "score": 0.5847147703170776,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 20,
+          "score": 0.5751743316650391,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 19,
+          "score": 0.569176435470581,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 30,
+          "score": 0.5674095153808594,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_24980",
+      "question": "Name the capital city of the Canadian Province of British Columbia?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.708631157875061,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6861010789871216,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 5,
+          "passage_index": 1,
+          "score": 0.6667885780334473,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6519133448600769,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6346094012260437,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6282555460929871,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 5,
+          "score": 0.618756890296936,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 4,
+          "passage_index": 2,
+          "score": 0.6002001762390137,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 4,
+          "passage_index": 3,
+          "score": 0.5997614860534668,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 1,
+          "passage_index": 3,
+          "score": 0.5979862213134766,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qw_15086",
+      "question": "Quitline is a system of centres to help people to quit what?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7007050514221191,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6799505949020386,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bb_7976",
+      "question": "To what note is the top string on a six-string guitar normally tuned?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 44,
+          "score": 0.6636124849319458,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.6458019018173218,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 8,
+          "passage_index": 2,
+          "score": 0.6258938312530518,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 16,
+          "score": 0.6207433938980103,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6205012202262878,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.614957869052887,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6024803519248962,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.5898115634918213,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.5889657735824585,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 6,
+          "passage_index": 1,
+          "score": 0.5693543553352356,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qg_3452",
+      "question": "Named for its chairman, The Warren Commission published its final report on Sept 27, 1965. What event was it seated to investigate?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6345449686050415,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.6083117723464966,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6057935953140259,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.5800047516822815,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.5616692304611206,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5462198257446289,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.5276638269424438,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.5198110938072205,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.49849891662597656,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.43278422951698303,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bb_1777",
+      "question": "A Gay Girl in Damascus is the title of a hoax blog by fictional feminist/freedom campaigner Amina Abdallah Alaf al Omari, who in June 2011 was said to be based and abducted in which country?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7991664409637451,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.7870579957962036,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.7054010629653931,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.6784616708755493,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 21,
+          "score": 0.6640112996101379,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.6630899310112,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 13,
+          "score": 0.662725567817688,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.6504119038581848,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.6256222724914551,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 20,
+          "score": 0.6139020919799805,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "jp_1658",
+      "question": "What was the central meeting place of ancient Rome?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 58,
+          "score": 0.480829119682312,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.47063887119293213,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.4607897400856018,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 85,
+          "score": 0.4563096761703491,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 86,
+          "score": 0.44442689418792725,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 8,
+          "score": 0.4412632882595062,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 102,
+          "score": 0.43790608644485474,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.42614656686782837,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 52,
+          "score": 0.4247916638851166,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 71,
+          "score": 0.42403700947761536,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qb_3703",
+      "question": "In the novel \u2018Watership Down\u2019, Yona is what type of creature?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.4899410307407379,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 7,
+          "score": 0.44034117460250854,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 36,
+          "score": 0.41541534662246704,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 35,
+          "score": 0.4087212085723877,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.37372398376464844,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.30699771642684937,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 22,
+          "score": 0.27990368008613586,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.27595704793930054,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 26,
+          "score": 0.2714271545410156,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 39,
+          "score": 0.2667119801044464,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qb_3065",
+      "question": "What is the International Vehicle Registration for Cambodia?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.607581615447998,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.5806457996368408,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.5348399877548218,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 8,
+          "passage_index": 23,
+          "score": 0.5332961082458496,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 8,
+          "passage_index": 28,
+          "score": 0.5217951536178589,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.5076428651809692,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 6,
+          "passage_index": 5,
+          "score": 0.49461886286735535,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 6,
+          "passage_index": 10,
+          "score": 0.492933452129364,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 8,
+          "passage_index": 1,
+          "score": 0.4921257197856903,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 8,
+          "passage_index": 4,
+          "score": 0.48898544907569885,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "bb_4642",
+      "question": "A 'tell' refers to a clue in which activity, which in turn refers metaphorically to an intentionally blank facial expression?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 53,
+          "score": 0.5075230002403259,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 51,
+          "score": 0.48631900548934937,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 150,
+          "score": 0.48572197556495667,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 151,
+          "score": 0.4755439758300781,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 147,
+          "score": 0.47436147928237915,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 146,
+          "score": 0.4732392430305481,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.4704037308692932,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.4654214084148407,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.4580437242984772,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 104,
+          "score": 0.45121365785598755,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_23460",
+      "question": "Name either of the cities served by Robin Hood airport?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.597770631313324,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 16,
+          "score": 0.5717568397521973,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.5345543622970581,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5275781750679016,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 2,
+          "passage_index": 6,
+          "score": 0.5204079747200012,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.5132730007171631,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5001323223114014,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.486998587846756,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 15,
+          "score": 0.485944539308548,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.4595125913619995,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "odql_724",
+      "question": "Which film about a submarine had as one of its stars Denzil Washington, whose character had violent disagreements with his Captain played by Gene Hackman?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.50412517786026,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.4612378478050232,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 8,
+          "score": 0.40468114614486694,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.3992476761341095,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.39870309829711914,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.3962002694606781,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 11,
+          "score": 0.39161181449890137,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 4,
+          "score": 0.38743382692337036,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.37786510586738586,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.3686216473579407,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "odql_7981",
+      "question": "The South African currency unit, the Rand, is divided into a hundred what?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7774977087974548,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6957113146781921,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.6515868902206421,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.5917831659317017,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.5384169816970825,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.5367852449417114,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.5238758325576782,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.5230540037155151,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.5148385167121887,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5094044208526611,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qb_1901",
+      "question": "Amarelo is Portuguese for which colour?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6904579997062683,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6454987525939941,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.5459283590316772,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.5342434644699097,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 1,
+          "score": 0.5083673596382141,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.44426706433296204,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.3722303807735443,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.24185769259929657,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.06543933600187302,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_15990",
+      "question": "Which Roman Emperor succeeded his father Vespasian in 79?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 9,
+          "passage_index": 0,
+          "score": 0.7656237483024597,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.7558401823043823,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.7462947368621826,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7400839328765869,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.738889753818512,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 10,
+          "passage_index": 1,
+          "score": 0.7272149324417114,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.7265506982803345,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 12,
+          "passage_index": 0,
+          "score": 0.7261891961097717,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.7184128761291504,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 10,
+          "passage_index": 2,
+          "score": 0.7125005722045898,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qg_3331",
+      "question": "Eventually a newspaper photographer for the Daily Bugle, what is the alter ego of Spiderman?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.6928020715713501,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.6821531057357788,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.6653870344161987,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.661929190158844,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.6331242322921753,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 14,
+          "score": 0.6160016059875488,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6135278344154358,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.6126294732093811,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.6048956513404846,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 1,
+          "passage_index": 20,
+          "score": 0.5940720438957214,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "jp_657",
+      "question": "What did Tikki Tikki Tembo fall into?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.5401403903961182,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.49479296803474426,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.49456456303596497,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.4930623769760132,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.4505382776260376,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.41651639342308044,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.3789191246032715,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.31845271587371826,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.08769150078296661,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_24078",
+      "question": "What was James Herbert\u2019s first book, published in 1974?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.6658798456192017,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6585725545883179,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 5,
+          "passage_index": 8,
+          "score": 0.6479756832122803,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 3,
+          "passage_index": 3,
+          "score": 0.6170346736907959,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6086094379425049,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6050439476966858,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5711835622787476,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.5633440017700195,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.5525791645050049,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5499120950698853,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_9644",
+      "question": "Haematite is an ore of which metal?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7251102924346924,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.6283817291259766,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.5906651020050049,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.5871643424034119,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 7,
+          "score": 0.5711387991905212,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5360918045043945,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.5184203386306763,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5183265209197998,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.5124671459197998,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 12,
+          "score": 0.5053148865699768,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "bt_3054",
+      "question": "In the car insurance business what do the letters TPFT suggest",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5393026471138,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 46,
+          "score": 0.47238093614578247,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.4678616225719452,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 26,
+          "score": 0.4496602714061737,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 43,
+          "score": 0.43936577439308167,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.431353896856308,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 27,
+          "score": 0.4286852180957794,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 28,
+          "score": 0.4269620478153229,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.4254666268825531,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.4246581792831421,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "tc_2505",
+      "question": "What is the name of the cathedral in Red Square, Moscow?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.7831947207450867,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 6,
+          "passage_index": 2,
+          "score": 0.7523161172866821,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.7426027059555054,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 7,
+          "passage_index": 1,
+          "score": 0.7245374917984009,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.7192708253860474,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 6,
+          "passage_index": 4,
+          "score": 0.7155261039733887,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7117233276367188,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 8,
+          "passage_index": 1,
+          "score": 0.7053624391555786,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.7025902271270752,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.698853611946106,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_1278",
+      "question": "What is the name of the lake formed in 1932 when the Zuider Zee was cut off from the North Sea by a dyke?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 3,
+          "passage_index": 8,
+          "score": 0.6608873605728149,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6344490647315979,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 5,
+          "score": 0.6050529479980469,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6024154424667358,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.5947829484939575,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5684185028076172,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.5568729043006897,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 6,
+          "passage_index": 1,
+          "score": 0.5563591122627258,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 7,
+          "passage_index": 7,
+          "score": 0.5361683964729309,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 4,
+          "score": 0.5289363265037537,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "jp_1940",
+      "question": "Who was married to Guinevere?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 14,
+          "score": 0.6907244324684143,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.6158744692802429,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.5774936676025391,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5738314986228943,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.5735329389572144,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.5703511834144592,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 13,
+          "score": 0.544748842716217,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.542720377445221,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.5338659286499023,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.5272250771522522,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qb_8277",
+      "question": "In February 1987, which UK airline was privatised and listed on the London Stock Exchange?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6530076265335083,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 3,
+          "score": 0.6165822148323059,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 12,
+          "score": 0.5987603664398193,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.5962363481521606,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 13,
+          "score": 0.5737093687057495,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 18,
+          "score": 0.5706194043159485,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 20,
+          "score": 0.5656453967094421,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 4,
+          "score": 0.5612404346466064,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 8,
+          "score": 0.5556185841560364,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 50,
+          "score": 0.5484954118728638,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bt_2951",
+      "question": "In which UK city is Great Victoria Street railway station",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.6961056590080261,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6710337996482849,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.6637035608291626,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6474486589431763,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.6205605268478394,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.585506021976471,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5817479491233826,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 4,
+          "score": 0.5722812414169312,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.5702328681945801,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5557332634925842,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "jp_4251",
+      "question": "In what city would you find Yale University?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6222131252288818,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6067346930503845,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.578342854976654,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 42,
+          "score": 0.5526676774024963,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.5519766807556152,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 30,
+          "score": 0.5491923689842224,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 26,
+          "score": 0.5412737131118774,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 20,
+          "score": 0.5233416557312012,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.5202092528343201,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 45,
+          "score": 0.5171148777008057,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_22430",
+      "question": "Which visitor attraction is in Exploration Drive, Leicester?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.7360943555831909,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6795049905776978,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.5844187140464783,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5738221406936646,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5325084924697876,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 5,
+          "score": 0.5246634483337402,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.5112134218215942,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.5046886205673218,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.493671178817749,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.4801909923553467,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qb_6790",
+      "question": "Scottish artist, Sir Henry Raeburn was knighted by which British monarch in 1822?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.7066391706466675,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.6834349632263184,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6822453737258911,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.6020119190216064,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5734432339668274,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.5101872086524963,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.48346835374832153,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.4628905951976776,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.4506385326385498,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bb_7920",
+      "question": "Which mountain overlooks Rio De Janeiro and its harbour?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.7348871231079102,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.7081865668296814,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 2,
+          "score": 0.6897194385528564,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 3,
+          "passage_index": 1,
+          "score": 0.6831145286560059,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.6827369928359985,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6816911697387695,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6581254601478577,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.654389500617981,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.6530830264091492,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 6,
+          "passage_index": 2,
+          "score": 0.6475046277046204,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "bb_4224",
+      "question": "The German company Recaro famously produces what high-performance product?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 17,
+          "score": 0.6630791425704956,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.6433736085891724,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 6,
+          "passage_index": 5,
+          "score": 0.628892183303833,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6103864312171936,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 6,
+          "passage_index": 2,
+          "score": 0.6101633310317993,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.6067685484886169,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 10,
+          "score": 0.5951513051986694,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 5,
+          "passage_index": 15,
+          "score": 0.5887892842292786,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5847985148429871,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 3,
+          "score": 0.5785847306251526,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "bb_5225",
+      "question": "The first (joint-)winner of the Nobel Peace Prize, Swiss Jean Henri Dunant, in 1901, founded which international organization?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.7024622559547424,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6899285912513733,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 9,
+          "score": 0.672088623046875,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 15,
+          "score": 0.6019992828369141,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.6015057563781738,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 14,
+          "score": 0.596123218536377,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 33,
+          "score": 0.5589923858642578,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 8,
+          "score": 0.5324141383171082,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 9,
+          "score": 0.5219674706459045,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 7,
+          "score": 0.5042407512664795,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "bb_5721",
+      "question": "Referring to the cause of a person's downfall, who is the Greek goddess of punishment?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 17,
+          "score": 0.5714179277420044,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 2,
+          "passage_index": 28,
+          "score": 0.5694640874862671,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 14,
+          "score": 0.5669090747833252,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 16,
+          "score": 0.5607930421829224,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.557985782623291,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 30,
+          "score": 0.5569471716880798,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 1,
+          "score": 0.5482611656188965,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 54,
+          "score": 0.5453121066093445,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 41,
+          "score": 0.5422722101211548,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 15,
+          "score": 0.5400184392929077,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "wh_252",
+      "question": "Which 1st World War battle of 1916 saw 60,000 British casualties on the first day? The battle lasted from July to November, resulting in a British advance of 12 kilometres.",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 25,
+          "score": 0.6578077673912048,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6144448518753052,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 15,
+          "score": 0.6133824586868286,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.6075279712677002,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 42,
+          "score": 0.6036274433135986,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 35,
+          "score": 0.5949525237083435,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 46,
+          "score": 0.5409597754478455,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 39,
+          "score": 0.5304362773895264,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 26,
+          "score": 0.5272430777549744,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5133329629898071,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qb_9823",
+      "question": "In the Jewish calendar, Sivan is which month of the religious year?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 32,
+          "score": 0.654893159866333,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6476800441741943,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 55,
+          "score": 0.6447997093200684,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 30,
+          "score": 0.6419916749000549,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 56,
+          "score": 0.6147335171699524,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.6056293845176697,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6001262068748474,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.5997271537780762,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 34,
+          "score": 0.5969383120536804,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 79,
+          "score": 0.5955273509025574,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "odql_13214",
+      "question": "Fritz Kreisler (1875-1962) was a virtuoso on which instrument?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.7265167832374573,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.702523410320282,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.6907639503479004,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6589910984039307,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6489450335502625,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.620516836643219,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 7,
+          "passage_index": 1,
+          "score": 0.6139212250709534,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.6077550649642944,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 3,
+          "score": 0.6042980551719666,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.5970996022224426,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qb_7790",
+      "question": "Late English criminal Bruce Reynolds masterminded which infamous robbery, which he later referred to as his \u2018Sistine Chapel ceiling\u2019",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.605193555355072,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6034324765205383,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.602234959602356,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5945305824279785,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5574631094932556,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.5420858860015869,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.5419715642929077,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.5346336960792542,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 3,
+          "score": 0.5067105293273926,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.5005970001220703,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_14232",
+      "question": "The Melrose Cup is awarded in which ball sport?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6546611785888672,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qf_3403",
+      "question": "At which sport could you win the Victor Barna Award?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.4555298686027527,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.4007808268070221,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qw_8045",
+      "question": "Judith Keppel was the first winner of the top prize on which UK programme?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 10,
+          "score": 0.6452982425689697,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.6178915500640869,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 10,
+          "passage_index": 0,
+          "score": 0.6125169992446899,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 19,
+          "score": 0.5893973708152771,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 5,
+          "passage_index": 2,
+          "score": 0.5799401998519897,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5618273019790649,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 8,
+          "passage_index": 1,
+          "score": 0.5405325293540955,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 10,
+          "passage_index": 2,
+          "score": 0.534883975982666,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 16,
+          "score": 0.5339435338973999,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 8,
+          "passage_index": 2,
+          "score": 0.5286333560943604,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bb_4458",
+      "question": "The Turkish Van (or Turkish Vankedisi), originally from the eastern Turkish lakeside city of Van, is domestic breed of?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.737436056137085,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.7186114192008972,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.7007688283920288,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.6481807231903076,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.6472963094711304,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.619962751865387,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.6163108944892883,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.6149695515632629,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.6025931239128113,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "wh_3424",
+      "question": "Which musical features the song 'Second Hand Rose'?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6493467688560486,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.3462831377983093,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 36,
+          "score": 0.33043044805526733,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 54,
+          "score": 0.3264095187187195,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 45,
+          "score": 0.3221795856952667,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.31901752948760986,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 25,
+          "score": 0.316981703042984,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 41,
+          "score": 0.3120846152305603,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 53,
+          "score": 0.3020112216472626,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 24,
+          "score": 0.29803165793418884,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qg_736",
+      "question": "Who famously described England as \u201ca nation of shopkeepers\u201d?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6996667981147766,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 5,
+          "score": 0.6995398998260498,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.6285196542739868,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5954896211624146,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.558708667755127,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.483036607503891,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.4093753397464752,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 7,
+          "score": 0.3426811695098877,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 6,
+          "score": 0.3376949429512024,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.3340595066547394,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "wh_1274",
+      "question": "In Osacar Wilde's The Importance of Being Earnest who utters the line 'a handbag' ?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 32,
+          "score": 0.6410665512084961,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 20,
+          "score": 0.5993012189865112,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.5771790742874146,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 29,
+          "score": 0.5665972828865051,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.5563130378723145,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.5437964200973511,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 30,
+          "score": 0.5284444093704224,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 24,
+          "score": 0.5178425312042236,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5159389972686768,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 31,
+          "score": 0.5150102376937866,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_13471",
+      "question": "Which enduring cartoon character was created by Bob Clampett for the 1938 cartoon Porky's Hare Hunt?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 10,
+          "passage_index": 5,
+          "score": 0.7422993183135986,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 8,
+          "passage_index": 2,
+          "score": 0.7266409397125244,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 3,
+          "passage_index": 2,
+          "score": 0.7155025005340576,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.7059473991394043,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.6993241310119629,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6921442747116089,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 21,
+          "score": 0.680347204208374,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 18,
+          "score": 0.6716177463531494,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 10,
+          "passage_index": 0,
+          "score": 0.6663080453872681,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 10,
+          "passage_index": 4,
+          "score": 0.6618812084197998,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "wh_187",
+      "question": "Near which village in North Wales were the rowing events held at the 1958 British Empire and Commonwealth Games?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.7128396034240723,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6604355573654175,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6432629823684692,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.6197162866592407,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 3,
+          "score": 0.5828899145126343,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 2,
+          "score": 0.5615434050559998,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 3,
+          "score": 0.3628799617290497,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.3058605492115021,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.2909122109413147,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.22730793058872223,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qb_8477",
+      "question": "\u2018Boat Race\u2019 is Cockney rhyming slang for which part of the body?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.692532479763031,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6909189224243164,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 5,
+          "passage_index": 1,
+          "score": 0.6791623830795288,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6599882245063782,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 4,
+          "passage_index": 32,
+          "score": 0.6333191394805908,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.631966769695282,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 4,
+          "passage_index": 3,
+          "score": 0.6016770005226135,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 16,
+          "score": 0.5997370481491089,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 24,
+          "score": 0.5879287123680115,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 6,
+          "score": 0.5785266160964966,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "tb_902",
+      "question": "The infamous drug cartel run by Pablo Escobar through the 1970s and 1980s takes its name from which Columbian city?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 9,
+          "passage_index": 0,
+          "score": 0.805989682674408,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 3,
+          "passage_index": 2,
+          "score": 0.7876567840576172,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.7836077213287354,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.7750328779220581,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 7,
+          "score": 0.7678248286247253,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 11,
+          "passage_index": 1,
+          "score": 0.7672851085662842,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.7672337293624878,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.7590527534484863,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 5,
+          "passage_index": 6,
+          "score": 0.7558068037033081,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 5,
+          "passage_index": 1,
+          "score": 0.7549008727073669,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qf_3075",
+      "question": "At which film festival could you be awarded the 'Palm d'Or'?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 3,
+          "passage_index": 1,
+          "score": 0.7226200103759766,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.7116585969924927,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6642012596130371,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6453180313110352,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.6067931652069092,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.6037718057632446,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.5885860323905945,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.5836410522460938,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 3,
+          "passage_index": 5,
+          "score": 0.5639691352844238,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 5,
+          "score": 0.5620257258415222,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "wh_3836",
+      "question": "What was the surname of the 19th president of the USA who had the first christian name Rutherford ?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 1,
+          "score": 0.6085278987884521,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5543644428253174,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 44,
+          "score": 0.5209362506866455,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 6,
+          "passage_index": 5,
+          "score": 0.510047197341919,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5018179416656494,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 23,
+          "score": 0.4913579225540161,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.4884018003940582,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 38,
+          "score": 0.47360914945602417,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 4,
+          "passage_index": 9,
+          "score": 0.4732436537742615,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.46703505516052246,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "odql_757",
+      "question": "What is the name of the Welsh television producer and writer who created 'Torchwood'?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 25,
+          "score": 0.6753544211387634,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6401338577270508,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.6371591091156006,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 7,
+          "score": 0.6231350302696228,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.6207654476165771,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.6072301864624023,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 22,
+          "score": 0.5992512106895447,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 6,
+          "score": 0.5961540341377258,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 4,
+          "score": 0.5843396186828613,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.5832701325416565,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bb_7402",
+      "question": "Speculation towards the end of 2007 suggested that Rupert Murdoch's News International Group was in discussion to buy what significant business networking website?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.4100543260574341,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.36193233728408813,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.309471070766449,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.308289498090744,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.26015329360961914,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.2092823088169098,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.17396080493927002,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bb_5317",
+      "question": "Name Tchaikovsky's famous ballet which begins on Christmas Eve?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 2,
+          "score": 0.5938645601272583,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 2,
+          "passage_index": 17,
+          "score": 0.5825324058532715,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5793994665145874,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 18,
+          "score": 0.5629666447639465,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 2,
+          "passage_index": 19,
+          "score": 0.5580593347549438,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 46,
+          "score": 0.5521969795227051,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 5,
+          "score": 0.5508208274841309,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 16,
+          "score": 0.5481027960777283,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 25,
+          "score": 0.5436052083969116,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 16,
+          "score": 0.5378914475440979,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bt_2979",
+      "question": "Who duetted with Aretha Franklin on Sisters Are Doing It For Themselves",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.8197346925735474,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.7824632525444031,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.7243395447731018,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.700859546661377,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 2,
+          "score": 0.5592187643051147,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5526623129844666,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 3,
+          "passage_index": 1,
+          "score": 0.5252845287322998,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.4978223741054535,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.4900285303592682,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_11478",
+      "question": "In the British Army, which commissioned rank is indicated by a crown on each shoulder?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 6,
+          "score": 0.6096205711364746,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 2,
+          "passage_index": 11,
+          "score": 0.6078165769577026,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 39,
+          "score": 0.606404185295105,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 9,
+          "score": 0.6016885042190552,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 14,
+          "score": 0.5993982553482056,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.594248354434967,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 15,
+          "score": 0.5901029109954834,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 37,
+          "score": 0.587446928024292,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 3,
+          "passage_index": 15,
+          "score": 0.5867465734481812,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 5,
+          "score": 0.5764380693435669,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "wh_2674",
+      "question": "The Uffizi and the Bargello are among the museums of art in which European city ?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5377280712127686,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5222676396369934,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.5111080408096313,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 18,
+          "score": 0.4902746081352234,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.48290061950683594,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 8,
+          "score": 0.46620625257492065,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.4387938678264618,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 16,
+          "score": 0.43347132205963135,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 15,
+          "score": 0.4216200113296509,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 19,
+          "score": 0.41937628388404846,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_2455",
+      "question": "Who composed the first ever concerto for tuba and orchestra?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.7573870420455933,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 4,
+          "passage_index": 16,
+          "score": 0.6826035380363464,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 4,
+          "score": 0.6305948495864868,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.6203897595405579,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 26,
+          "score": 0.6152262091636658,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 5,
+          "passage_index": 5,
+          "score": 0.6107978820800781,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 28,
+          "score": 0.6089267134666443,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 4,
+          "passage_index": 12,
+          "score": 0.606121301651001,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.6051781177520752,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 9,
+          "score": 0.6048809289932251,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bb_437",
+      "question": "Which English novelist is best known for his Father Brown detective series?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.610867977142334,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "dpql_4756",
+      "question": "Which World War 2 American general was known as 'Vinegar Joe'?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5710263252258301,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5368705987930298,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.5175068974494934,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 40,
+          "score": 0.4554706811904907,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 45,
+          "score": 0.4540177285671234,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 50,
+          "score": 0.4236026704311371,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 43,
+          "score": 0.41510871052742004,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.4011901915073395,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 39,
+          "score": 0.38549405336380005,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 38,
+          "score": 0.37372657656669617,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_20110",
+      "question": "Who was the mother of Queen Mary 1st of England?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6963285207748413,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.6915923357009888,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6749007701873779,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6633474230766296,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.6495565176010132,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6415723562240601,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 6,
+          "passage_index": 63,
+          "score": 0.6358519196510315,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 4,
+          "passage_index": 23,
+          "score": 0.6306686997413635,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 8,
+          "score": 0.626291036605835,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 6,
+          "score": 0.6257466077804565,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "odql_14179",
+      "question": "Which member of Led Zeppelin appeared at Glastonbury this year with his current band The Sensational Space Shifters?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 2,
+          "score": 0.6276426315307617,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 10,
+          "passage_index": 6,
+          "score": 0.6234599351882935,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 10,
+          "passage_index": 5,
+          "score": 0.6179660558700562,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 8,
+          "passage_index": 26,
+          "score": 0.5989744663238525,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 2,
+          "score": 0.5952752828598022,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5932936668395996,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 28,
+          "score": 0.591529369354248,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5847234129905701,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5844342708587646,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 16,
+          "score": 0.578190267086029,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "wh_815",
+      "question": "Which Scottish engineer gave the first public demonstration of TV?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.7245910167694092,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 9,
+          "passage_index": 1,
+          "score": 0.6835227012634277,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6675865650177002,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.6483322381973267,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.6410624384880066,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6367571353912354,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.625741183757782,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6197395324707031,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 6,
+          "passage_index": 3,
+          "score": 0.6122914552688599,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 6,
+          "passage_index": 7,
+          "score": 0.6119977235794067,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_5689",
+      "question": "On which town or city's beach did John Stonehouse do his Reggie Perrin (disappearing act)?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.6357851028442383,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5261310935020447,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 39,
+          "score": 0.4852674603462219,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.47618988156318665,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.4736597537994385,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 34,
+          "score": 0.47219976782798767,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.4705221652984619,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 6,
+          "score": 0.4700387716293335,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.44876402616500854,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 5,
+          "score": 0.43396881222724915,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qf_2136",
+      "question": "Las Vegas is situated in which US State?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6999699473381042,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.637528121471405,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6299642324447632,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.6160373091697693,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.5333887934684753,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.5307890772819519,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.49050503969192505,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.3774319887161255,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.35109442472457886,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.3424876034259796,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "odql_5709",
+      "question": "Which novel features the scholar 'Humbert Humbert'?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.6837444305419922,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 7,
+          "passage_index": 1,
+          "score": 0.676144003868103,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 36,
+          "score": 0.663017749786377,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 3,
+          "passage_index": 10,
+          "score": 0.6478837132453918,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.5938524007797241,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 3,
+          "passage_index": 2,
+          "score": 0.5930615067481995,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 3,
+          "passage_index": 9,
+          "score": 0.5919595956802368,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5863584876060486,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 6,
+          "passage_index": 3,
+          "score": 0.5710239410400391,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 6,
+          "passage_index": 6,
+          "score": 0.5659335255622864,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_2718",
+      "question": "What electrical property, the reciprocal of resistivity, has the SI units Siemens per metre?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.7496205568313599,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.7181041240692139,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 6,
+          "passage_index": 1,
+          "score": 0.7161481976509094,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7052717208862305,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6971549987792969,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 6,
+          "passage_index": 4,
+          "score": 0.6900842189788818,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6442544460296631,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 2,
+          "score": 0.6395882368087769,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.6305984854698181,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.6280055046081543,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_15448",
+      "question": "At what age does an individual first become entitled to a free TV licence?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 31,
+          "score": 0.5761771202087402,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5404072999954224,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5175883769989014,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 32,
+          "score": 0.4968211352825165,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 35,
+          "score": 0.49368685483932495,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 23,
+          "score": 0.48972731828689575,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.4884442687034607,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.48288360238075256,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 52,
+          "score": 0.4811607301235199,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 24,
+          "score": 0.47507062554359436,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "bb_5000",
+      "question": "The expression 'Go West' originally (mid-1800s) encouraged people to move from/within?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.18943795561790466,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.11960132420063019,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.08553306758403778,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.05388651043176651,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.031003762036561966,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "bt_145",
+      "question": "Which musical instrument was Jelly Roll Morton associated with",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 1,
+          "score": 0.8030969500541687,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.7582674622535706,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 14,
+          "score": 0.7577997446060181,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 3,
+          "passage_index": 4,
+          "score": 0.7545127272605896,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.7414509057998657,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 5,
+          "passage_index": 50,
+          "score": 0.7147397994995117,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 45,
+          "score": 0.7131526470184326,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.7056412696838379,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 11,
+          "score": 0.6877357959747314,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 6,
+          "score": 0.68316251039505,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_23841",
+      "question": "\"Nicknamed the \"\"She Wolf of France\"\", Isabella the wife of Edward II, was from which French royal house?\"",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 3,
+          "score": 0.6223136186599731,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.6145756840705872,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 17,
+          "score": 0.6067008972167969,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 2,
+          "passage_index": 42,
+          "score": 0.599135160446167,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.5927007794380188,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.566883385181427,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 45,
+          "score": 0.5655674934387207,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 2,
+          "passage_index": 24,
+          "score": 0.553627610206604,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 47,
+          "score": 0.5495345592498779,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 2,
+          "passage_index": 27,
+          "score": 0.5398591160774231,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qb_1462",
+      "question": "On which part of the body would a mukluk be worn?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5979212522506714,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5971618294715881,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "dpql_1865",
+      "question": "Of which Saxon kingdom was Offa a King?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.7795843482017517,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 48,
+          "score": 0.7685622572898865,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.7555030584335327,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.7443491220474243,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 9,
+          "score": 0.7121193408966064,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 8,
+          "passage_index": 2,
+          "score": 0.7088149189949036,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 12,
+          "passage_index": 0,
+          "score": 0.6952463388442993,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 8,
+          "passage_index": 7,
+          "score": 0.6949861645698547,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 8,
+          "passage_index": 1,
+          "score": 0.6949449181556702,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 1,
+          "passage_index": 22,
+          "score": 0.6947746276855469,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "tb_1448",
+      "question": "When it was liberated from the UK in 1957, which country became the first sub-Saharan nation to gain independence?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 3,
+          "passage_index": 2,
+          "score": 0.7123591303825378,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 17,
+          "score": 0.6934515237808228,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 5,
+          "passage_index": 1,
+          "score": 0.6365517377853394,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.5902881026268005,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.5861918926239014,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.5855252742767334,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 3,
+          "passage_index": 8,
+          "score": 0.579045295715332,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 3,
+          "passage_index": 7,
+          "score": 0.5760986804962158,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.5520311594009399,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5512186288833618,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qb_3822",
+      "question": "In 1883 which Indonesian volcano erupted and was believed to be the largest single explosion in recorded human history?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.7386527061462402,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.7367280721664429,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 4,
+          "passage_index": 2,
+          "score": 0.7110190987586975,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.69535893201828,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 7,
+          "passage_index": 11,
+          "score": 0.6753429174423218,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6712672710418701,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.6637524962425232,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 8,
+          "score": 0.6567857265472412,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.643657922744751,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 3,
+          "passage_index": 6,
+          "score": 0.6230425834655762,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "qz_3623",
+      "question": "Which Canadian born  actress was the star in the movie Barb Wire?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5880575180053711,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5482204556465149,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.4439663887023926,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 4,
+          "score": 0.3899317681789398,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 6,
+          "score": 0.38170677423477173,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.37985777854919434,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 1,
+          "passage_index": 7,
+          "score": 0.37802135944366455,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.37702181935310364,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 8,
+          "score": 0.3394613265991211,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.32514235377311707,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qw_6697",
+      "question": "What is the name of the line separating the numerator and denominator of a fraction if it is written as a diagonal line?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5986694693565369,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.5895676612854004,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.5559890270233154,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 29,
+          "score": 0.5160709619522095,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.49590539932250977,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 30,
+          "score": 0.48989957571029663,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.47696754336357117,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.46352866291999817,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.45998477935791016,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 16,
+          "score": 0.4592399299144745,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "odql_14488",
+      "question": "In which opera do the characters 'Ned Keene' and 'Bob Boles' appear?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 6,
+          "passage_index": 1,
+          "score": 0.45295873284339905,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 8,
+          "passage_index": 3,
+          "score": 0.44798406958580017,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.42840972542762756,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.4193561375141144,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 3,
+          "passage_index": 4,
+          "score": 0.4185289442539215,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.41370445489883423,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 3,
+          "passage_index": 5,
+          "score": 0.4133107364177704,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 3,
+          "passage_index": 3,
+          "score": 0.41038522124290466,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.39800477027893066,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 2,
+          "score": 0.3799237608909607,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "dpql_5268",
+      "question": "Which planet did Gustav Holst describe as the \u2018Winged Messenger\u2019?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 4,
+          "passage_index": 0,
+          "score": 0.6371809244155884,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.6065350770950317,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.5643615126609802,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 9,
+          "passage_index": 0,
+          "score": 0.5502020120620728,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 58,
+          "score": 0.5500481128692627,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 5,
+          "passage_index": 4,
+          "score": 0.5305402278900146,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 5,
+          "passage_index": 2,
+          "score": 0.5216662287712097,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 1,
+          "passage_index": 55,
+          "score": 0.5203335285186768,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 22,
+          "score": 0.5002193450927734,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 3,
+          "passage_index": 1,
+          "score": 0.4976519048213959,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_20621",
+      "question": "Who is the current presenter of BBC Radio 4 programme Desert Island Discs?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.7798120379447937,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 10,
+          "passage_index": 0,
+          "score": 0.7495678663253784,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 10,
+          "passage_index": 1,
+          "score": 0.7403579950332642,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.7294606566429138,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 9,
+          "passage_index": 1,
+          "score": 0.7185134291648865,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.7140930891036987,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 7,
+          "passage_index": 1,
+          "score": 0.7117540240287781,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.698296070098877,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6814219355583191,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 2,
+          "score": 0.663921594619751,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qz_3027",
+      "question": "Which notorious murderer lived at 10 Rillington Place?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 21,
+          "score": 0.5836015939712524,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 26,
+          "score": 0.5727155208587646,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 20,
+          "score": 0.5687161087989807,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 16,
+          "score": 0.5604521036148071,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5410687923431396,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 11,
+          "score": 0.5262982845306396,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.524039626121521,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5091583132743835,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 17,
+          "score": 0.504875123500824,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 28,
+          "score": 0.4950236976146698,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_21369",
+      "question": "The top American fiction bestseller in both 1936 and 1937 was the only novel published during the lifetime of its author. Who was she?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.5485137701034546,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.5296878218650818,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 1,
+          "passage_index": 2,
+          "score": 0.5067837238311768,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 4,
+          "passage_index": 7,
+          "score": 0.49253159761428833,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 65,
+          "score": 0.4903888702392578,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 2,
+          "passage_index": 5,
+          "score": 0.48841923475265503,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 76,
+          "score": 0.48714959621429443,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.4808296859264374,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 4,
+          "passage_index": 1,
+          "score": 0.47824734449386597,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 1,
+          "passage_index": 1,
+          "score": 0.47767987847328186,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "odql_4851",
+      "question": "Which singer's real name is Elaine Bookbinder?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.5671620965003967,
+          "is_correct": false
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.5333458185195923,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.46969592571258545,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.4105301797389984,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 5,
+          "score": 0.39631855487823486,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 2,
+          "score": 0.3528011739253998,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 4,
+          "score": 0.3242168724536896,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.27573034167289734,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 8,
+          "score": 0.19461774826049805,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qw_3576",
+      "question": "\"Which pair of films starred Uma Thurman as \"\"the bride\"\", Daryl Hannah as her arch-nemesis and Lucy Liu as \"\"Cottonmouth\"\"?\"",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.556725800037384,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.5209115743637085,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 6,
+          "score": 0.49240416288375854,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 9,
+          "score": 0.47316277027130127,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.4692824184894562,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 4,
+          "passage_index": 2,
+          "score": 0.4605097770690918,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 4,
+          "passage_index": 11,
+          "score": 0.4552019238471985,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 13,
+          "score": 0.44665083289146423,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 2,
+          "passage_index": 4,
+          "score": 0.4422445297241211,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 3,
+          "score": 0.43563902378082275,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "sfq_13876",
+      "question": "In the cartoon series, what kind of dog is Scooby Doo?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.724820613861084,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 42,
+          "score": 0.7140614986419678,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 10,
+          "score": 0.6937656998634338,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 0,
+          "passage_index": 18,
+          "score": 0.67507004737854,
+          "is_correct": false
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 16,
+          "score": 0.6624400019645691,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 0,
+          "passage_index": 21,
+          "score": 0.6579017043113708,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 27,
+          "score": 0.6501716375350952,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 19,
+          "score": 0.6424898505210876,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 0,
+          "passage_index": 12,
+          "score": 0.6378293037414551,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6372879147529602,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "jp_126",
+      "question": "\"What was the Scopes \"\"monkey trial\"\" really about?\"",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.8036872148513794,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 46,
+          "score": 0.6626787185668945,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.642995297908783,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.6417522430419922,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6333689093589783,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 8,
+          "passage_index": 8,
+          "score": 0.6310992240905762,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.6304925680160522,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 45,
+          "score": 0.6298935413360596,
+          "is_correct": false
+        },
+        {
+          "rank": 9,
+          "doc_index": 3,
+          "passage_index": 0,
+          "score": 0.6209346652030945,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 10,
+          "passage_index": 0,
+          "score": 0.609868049621582,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_id": "odql_13281",
+      "question": "Who was the landlady of the Rovers Return when Coronation Street was first broadcast in 1960?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 1,
+          "score": 0.6721192002296448,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 1,
+          "passage_index": 56,
+          "score": 0.6542128324508667,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.6517362594604492,
+          "is_correct": false
+        },
+        {
+          "rank": 4,
+          "doc_index": 1,
+          "passage_index": 10,
+          "score": 0.6392748951911926,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 2,
+          "passage_index": 2,
+          "score": 0.6369146108627319,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.6262356042861938,
+          "is_correct": false
+        },
+        {
+          "rank": 7,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.6218525767326355,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 3,
+          "passage_index": 1,
+          "score": 0.6126665472984314,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 1,
+          "passage_index": 97,
+          "score": 0.6066178679466248,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 0,
+          "passage_index": 7,
+          "score": 0.6044715642929077,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "qw_15141",
+      "question": "What dish has romaine lettuce and croutons dressed with parmesan cheese, lemon juice, olive oil, egg, Worcestershire sauce, and black pepper?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 5,
+          "passage_index": 0,
+          "score": 0.7102655172348022,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 4,
+          "passage_index": 3,
+          "score": 0.6777858138084412,
+          "is_correct": false
+        },
+        {
+          "rank": 3,
+          "doc_index": 8,
+          "passage_index": 1,
+          "score": 0.6188865900039673,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 6,
+          "passage_index": 0,
+          "score": 0.6032347679138184,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 8,
+          "passage_index": 7,
+          "score": 0.5896977186203003,
+          "is_correct": false
+        },
+        {
+          "rank": 6,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.5653265714645386,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 8,
+          "passage_index": 6,
+          "score": 0.5572033524513245,
+          "is_correct": true
+        },
+        {
+          "rank": 8,
+          "doc_index": 0,
+          "passage_index": 1,
+          "score": 0.556703507900238,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 8,
+          "passage_index": 0,
+          "score": 0.5535692572593689,
+          "is_correct": true
+        },
+        {
+          "rank": 10,
+          "doc_index": 4,
+          "passage_index": 4,
+          "score": 0.5524885654449463,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_id": "odql_6518",
+      "question": "In which city, one of the hosts for the 2003 Cricket World Cup, is the Buffalo Park Ground?",
+      "ranked": [
+        {
+          "rank": 1,
+          "doc_index": 2,
+          "passage_index": 0,
+          "score": 0.802393913269043,
+          "is_correct": true
+        },
+        {
+          "rank": 2,
+          "doc_index": 0,
+          "passage_index": 0,
+          "score": 0.8022599220275879,
+          "is_correct": true
+        },
+        {
+          "rank": 3,
+          "doc_index": 4,
+          "passage_index": 5,
+          "score": 0.7719308733940125,
+          "is_correct": true
+        },
+        {
+          "rank": 4,
+          "doc_index": 7,
+          "passage_index": 1,
+          "score": 0.7310279607772827,
+          "is_correct": true
+        },
+        {
+          "rank": 5,
+          "doc_index": 1,
+          "passage_index": 0,
+          "score": 0.7160437703132629,
+          "is_correct": true
+        },
+        {
+          "rank": 6,
+          "doc_index": 7,
+          "passage_index": 0,
+          "score": 0.6934083700180054,
+          "is_correct": true
+        },
+        {
+          "rank": 7,
+          "doc_index": 3,
+          "passage_index": 2,
+          "score": 0.690183162689209,
+          "is_correct": false
+        },
+        {
+          "rank": 8,
+          "doc_index": 3,
+          "passage_index": 1,
+          "score": 0.6633573770523071,
+          "is_correct": true
+        },
+        {
+          "rank": 9,
+          "doc_index": 4,
+          "passage_index": 8,
+          "score": 0.6522297859191895,
+          "is_correct": false
+        },
+        {
+          "rank": 10,
+          "doc_index": 7,
+          "passage_index": 2,
+          "score": 0.651985764503479,
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

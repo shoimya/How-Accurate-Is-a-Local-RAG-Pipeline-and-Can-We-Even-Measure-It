@@ -1,0 +1,632 @@
+[
+  {
+    "question_id": "qw_1978",
+    "question": "What was first worn by British soldiers in India in 1845?",
+    "baseline_answer": "Kashmiri shawls.",
+    "rag_answer": "White cotton cloth.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_1253",
+    "question": "Which US gangster was released from Alcatraz prison in November 1939?",
+    "baseline_answer": "Al Capone",
+    "rag_answer": "Al Capone.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bt_2047",
+    "question": "Of which tribe of Red Indians was Geronimo a chief",
+    "baseline_answer": "Apache",
+    "rag_answer": "Apache.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_5758",
+    "question": "Which rank of the RAF is equivalent to Major in the British Army?",
+    "baseline_answer": "Wing Commander",
+    "rag_answer": "Squadron Leader",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_24980",
+    "question": "Name the capital city of the Canadian Province of British Columbia?",
+    "baseline_answer": "Victoria",
+    "rag_answer": "Victoria",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qw_15086",
+    "question": "Quitline is a system of centres to help people to quit what?",
+    "baseline_answer": "Smoking",
+    "rag_answer": "addiction and behavior change/issues",
+    "n_context_passages": 2
+  },
+  {
+    "question_id": "bb_7976",
+    "question": "To what note is the top string on a six-string guitar normally tuned?",
+    "baseline_answer": "E",
+    "rag_answer": "E",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qg_3452",
+    "question": "Named for its chairman, The Warren Commission published its final report on Sept 27, 1965. What event was it seated to investigate?",
+    "baseline_answer": "Assassination of President John F. Kennedy.",
+    "rag_answer": "The assassination of President John F. Kennedy.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_1777",
+    "question": "A Gay Girl in Damascus is the title of a hoax blog by fictional feminist/freedom campaigner Amina Abdallah Alaf al Omari, who in June 2011 was said to be based and abducted in which country?",
+    "baseline_answer": "Syria",
+    "rag_answer": "Syria.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "jp_1658",
+    "question": "What was the central meeting place of ancient Rome?",
+    "baseline_answer": "Forum Romanum",
+    "rag_answer": "Forum.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_3703",
+    "question": "In the novel \u2018Watership Down\u2019, Yona is what type of creature?",
+    "baseline_answer": "A rabbit.",
+    "rag_answer": "Hedgehog.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_3065",
+    "question": "What is the International Vehicle Registration for Cambodia?",
+    "baseline_answer": "K",
+    "rag_answer": "Not specified.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_4642",
+    "question": "A 'tell' refers to a clue in which activity, which in turn refers metaphorically to an intentionally blank facial expression?",
+    "baseline_answer": "Acting",
+    "rag_answer": "Vocalics",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_23460",
+    "question": "Name either of the cities served by Robin Hood airport?",
+    "baseline_answer": "Doncaster",
+    "rag_answer": "Doncaster, Sheffield.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_724",
+    "question": "Which film about a submarine had as one of its stars Denzil Washington, whose character had violent disagreements with his Captain played by Gene Hackman?",
+    "baseline_answer": "Crimson Tide.",
+    "rag_answer": "Crimson Tide",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_7981",
+    "question": "The South African currency unit, the Rand, is divided into a hundred what?",
+    "baseline_answer": "cents",
+    "rag_answer": "Cents",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_1901",
+    "question": "Amarelo is Portuguese for which colour?",
+    "baseline_answer": "Yellow",
+    "rag_answer": "Yellow.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_15990",
+    "question": "Which Roman Emperor succeeded his father Vespasian in 79?",
+    "baseline_answer": "Titus",
+    "rag_answer": "Titus",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qg_3331",
+    "question": "Eventually a newspaper photographer for the Daily Bugle, what is the alter ego of Spiderman?",
+    "baseline_answer": "Peter Parker",
+    "rag_answer": "Peter Parker.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "jp_657",
+    "question": "What did Tikki Tikki Tembo fall into?",
+    "baseline_answer": "A well",
+    "rag_answer": "A well.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_24078",
+    "question": "What was James Herbert\u2019s first book, published in 1974?",
+    "baseline_answer": "The Survivor",
+    "rag_answer": "The Rats.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_9644",
+    "question": "Haematite is an ore of which metal?",
+    "baseline_answer": "Iron.",
+    "rag_answer": "Iron.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bt_3054",
+    "question": "In the car insurance business what do the letters TPFT suggest",
+    "baseline_answer": "Third Party Fire Theft",
+    "rag_answer": "Third Party Fire and Theft.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "tc_2505",
+    "question": "What is the name of the cathedral in Red Square, Moscow?",
+    "baseline_answer": "St. Basil's",
+    "rag_answer": "St. Basil's Cathedral.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_1278",
+    "question": "What is the name of the lake formed in 1932 when the Zuider Zee was cut off from the North Sea by a dyke?",
+    "baseline_answer": "IJsselmeer",
+    "rag_answer": "IJsselmeer",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "jp_1940",
+    "question": "Who was married to Guinevere?",
+    "baseline_answer": "Arthur",
+    "rag_answer": "Leodegrance and Lancelot.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_8277",
+    "question": "In February 1987, which UK airline was privatised and listed on the London Stock Exchange?",
+    "baseline_answer": "British Airways",
+    "rag_answer": "British Airways.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bt_2951",
+    "question": "In which UK city is Great Victoria Street railway station",
+    "baseline_answer": "Belfast",
+    "rag_answer": "Belfast",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "jp_4251",
+    "question": "In what city would you find Yale University?",
+    "baseline_answer": "New Haven",
+    "rag_answer": "New Haven, Connecticut.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_22430",
+    "question": "Which visitor attraction is in Exploration Drive, Leicester?",
+    "baseline_answer": "National Space Centre",
+    "rag_answer": "National Space Centre",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_6790",
+    "question": "Scottish artist, Sir Henry Raeburn was knighted by which British monarch in 1822?",
+    "baseline_answer": "George IV",
+    "rag_answer": "George IV",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_7920",
+    "question": "Which mountain overlooks Rio De Janeiro and its harbour?",
+    "baseline_answer": "Sugarloaf Mountain",
+    "rag_answer": "Sugarloaf Mountain.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_4224",
+    "question": "The German company Recaro famously produces what high-performance product?",
+    "baseline_answer": "Car seats",
+    "rag_answer": "Seats.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_5225",
+    "question": "The first (joint-)winner of the Nobel Peace Prize, Swiss Jean Henri Dunant, in 1901, founded which international organization?",
+    "baseline_answer": "Red Cross",
+    "rag_answer": "The Red Cross.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_5721",
+    "question": "Referring to the cause of a person's downfall, who is the Greek goddess of punishment?",
+    "baseline_answer": "Nemesis",
+    "rag_answer": "Athena",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "wh_252",
+    "question": "Which 1st World War battle of 1916 saw 60,000 British casualties on the first day? The battle lasted from July to November, resulting in a British advance of 12 kilometres.",
+    "baseline_answer": "The Somme.",
+    "rag_answer": "The Battle of the Somme.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_9823",
+    "question": "In the Jewish calendar, Sivan is which month of the religious year?",
+    "baseline_answer": "Third",
+    "rag_answer": "Third.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_13214",
+    "question": "Fritz Kreisler (1875-1962) was a virtuoso on which instrument?",
+    "baseline_answer": "Violin",
+    "rag_answer": "Violin.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_7790",
+    "question": "Late English criminal Bruce Reynolds masterminded which infamous robbery, which he later referred to as his \u2018Sistine Chapel ceiling\u2019",
+    "baseline_answer": "Great Train Robbery",
+    "rag_answer": "The Great Train Robbery",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_14232",
+    "question": "The Melrose Cup is awarded in which ball sport?",
+    "baseline_answer": "Rugby",
+    "rag_answer": "Rugby.",
+    "n_context_passages": 1
+  },
+  {
+    "question_id": "qf_3403",
+    "question": "At which sport could you win the Victor Barna Award?",
+    "baseline_answer": "Table Tennis",
+    "rag_answer": "Table Tennis",
+    "n_context_passages": 2
+  },
+  {
+    "question_id": "qw_8045",
+    "question": "Judith Keppel was the first winner of the top prize on which UK programme?",
+    "baseline_answer": "Who Wants to Be a Millionaire?",
+    "rag_answer": "Who Wants to Be a Millionaire?",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_4458",
+    "question": "The Turkish Van (or Turkish Vankedisi), originally from the eastern Turkish lakeside city of Van, is domestic breed of?",
+    "baseline_answer": "Cat",
+    "rag_answer": "cat.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "wh_3424",
+    "question": "Which musical features the song 'Second Hand Rose'?",
+    "baseline_answer": "Annie Get Your Gun",
+    "rag_answer": "Funny Girl.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qg_736",
+    "question": "Who famously described England as \u201ca nation of shopkeepers\u201d?",
+    "baseline_answer": "Napoleon",
+    "rag_answer": "Napoleon",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "wh_1274",
+    "question": "In Osacar Wilde's The Importance of Being Earnest who utters the line 'a handbag' ?",
+    "baseline_answer": "Lady Bracknell",
+    "rag_answer": "Lady Bracknell.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_13471",
+    "question": "Which enduring cartoon character was created by Bob Clampett for the 1938 cartoon Porky's Hare Hunt?",
+    "baseline_answer": "Bugs Bunny",
+    "rag_answer": "Bugs Bunny",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "wh_187",
+    "question": "Near which village in North Wales were the rowing events held at the 1958 British Empire and Commonwealth Games?",
+    "baseline_answer": "Penrhyn Bay",
+    "rag_answer": "Llanberis.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_8477",
+    "question": "\u2018Boat Race\u2019 is Cockney rhyming slang for which part of the body?",
+    "baseline_answer": "Face",
+    "rag_answer": "Face.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "tb_902",
+    "question": "The infamous drug cartel run by Pablo Escobar through the 1970s and 1980s takes its name from which Columbian city?",
+    "baseline_answer": "Medell\u00edn",
+    "rag_answer": "Medell\u00edn.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qf_3075",
+    "question": "At which film festival could you be awarded the 'Palm d'Or'?",
+    "baseline_answer": "Cannes",
+    "rag_answer": "Cannes Film Festival.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "wh_3836",
+    "question": "What was the surname of the 19th president of the USA who had the first christian name Rutherford ?",
+    "baseline_answer": "Hayes",
+    "rag_answer": "Hayes",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_757",
+    "question": "What is the name of the Welsh television producer and writer who created 'Torchwood'?",
+    "baseline_answer": "Russell T Davies",
+    "rag_answer": "Russell T Davies",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_7402",
+    "question": "Speculation towards the end of 2007 suggested that Rupert Murdoch's News International Group was in discussion to buy what significant business networking website?",
+    "baseline_answer": "LinkedIn",
+    "rag_answer": "Facebook.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_5317",
+    "question": "Name Tchaikovsky's famous ballet which begins on Christmas Eve?",
+    "baseline_answer": "The Nutcracker",
+    "rag_answer": "The Nutcracker.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bt_2979",
+    "question": "Who duetted with Aretha Franklin on Sisters Are Doing It For Themselves",
+    "baseline_answer": "Annie Lennox",
+    "rag_answer": "Annie Lennox.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_11478",
+    "question": "In the British Army, which commissioned rank is indicated by a crown on each shoulder?",
+    "baseline_answer": "Field Marshal",
+    "rag_answer": "Brigadier.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "wh_2674",
+    "question": "The Uffizi and the Bargello are among the museums of art in which European city ?",
+    "baseline_answer": "Florence",
+    "rag_answer": "Florence.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_2455",
+    "question": "Who composed the first ever concerto for tuba and orchestra?",
+    "baseline_answer": "Georg Christoph Strattner",
+    "rag_answer": "Hector Berlioz.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_437",
+    "question": "Which English novelist is best known for his Father Brown detective series?",
+    "baseline_answer": "G.K. Chesterton",
+    "rag_answer": "G.K. Chesterton",
+    "n_context_passages": 1
+  },
+  {
+    "question_id": "dpql_4756",
+    "question": "Which World War 2 American general was known as 'Vinegar Joe'?",
+    "baseline_answer": "Joseph Stilwell",
+    "rag_answer": "Joseph Stilwell.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_20110",
+    "question": "Who was the mother of Queen Mary 1st of England?",
+    "baseline_answer": "Catherine of Aragon",
+    "rag_answer": "Catherine of Aragon.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_14179",
+    "question": "Which member of Led Zeppelin appeared at Glastonbury this year with his current band The Sensational Space Shifters?",
+    "baseline_answer": "Robert Plant",
+    "rag_answer": "Robert Plant.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "wh_815",
+    "question": "Which Scottish engineer gave the first public demonstration of TV?",
+    "baseline_answer": "John Logie Baird",
+    "rag_answer": "John Logie Baird.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_5689",
+    "question": "On which town or city's beach did John Stonehouse do his Reggie Perrin (disappearing act)?",
+    "baseline_answer": "Bournemouth.",
+    "rag_answer": "Miami.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qf_2136",
+    "question": "Las Vegas is situated in which US State?",
+    "baseline_answer": "Nevada",
+    "rag_answer": "New Mexico.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_5709",
+    "question": "Which novel features the scholar 'Humbert Humbert'?",
+    "baseline_answer": "Lolita",
+    "rag_answer": "Lolita",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_2718",
+    "question": "What electrical property, the reciprocal of resistivity, has the SI units Siemens per metre?",
+    "baseline_answer": "Conductivity",
+    "rag_answer": "Conductivity",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_15448",
+    "question": "At what age does an individual first become entitled to a free TV licence?",
+    "baseline_answer": "75",
+    "rag_answer": "75",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bb_5000",
+    "question": "The expression 'Go West' originally (mid-1800s) encouraged people to move from/within?",
+    "baseline_answer": "The East Coast to the West Coast.",
+    "rag_answer": "The United States.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "bt_145",
+    "question": "Which musical instrument was Jelly Roll Morton associated with",
+    "baseline_answer": "Piano",
+    "rag_answer": "Piano",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_23841",
+    "question": "\"Nicknamed the \"\"She Wolf of France\"\", Isabella the wife of Edward II, was from which French royal house?\"",
+    "baseline_answer": "Capetian",
+    "rag_answer": "Capetian.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_1462",
+    "question": "On which part of the body would a mukluk be worn?",
+    "baseline_answer": "Foot",
+    "rag_answer": "Feet.",
+    "n_context_passages": 2
+  },
+  {
+    "question_id": "dpql_1865",
+    "question": "Of which Saxon kingdom was Offa a King?",
+    "baseline_answer": "Mercia",
+    "rag_answer": "Mercia.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "tb_1448",
+    "question": "When it was liberated from the UK in 1957, which country became the first sub-Saharan nation to gain independence?",
+    "baseline_answer": "Ghana",
+    "rag_answer": "Ghana.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qb_3822",
+    "question": "In 1883 which Indonesian volcano erupted and was believed to be the largest single explosion in recorded human history?",
+    "baseline_answer": "Krakatoa",
+    "rag_answer": "Krakatoa.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qz_3623",
+    "question": "Which Canadian born  actress was the star in the movie Barb Wire?",
+    "baseline_answer": "Rosie O'Donnell",
+    "rag_answer": "Pamela Anderson.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qw_6697",
+    "question": "What is the name of the line separating the numerator and denominator of a fraction if it is written as a diagonal line?",
+    "baseline_answer": "Diagonal line",
+    "rag_answer": "Fraction slash.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_14488",
+    "question": "In which opera do the characters 'Ned Keene' and 'Bob Boles' appear?",
+    "baseline_answer": "Peter Grimes",
+    "rag_answer": "Peter Grimes",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "dpql_5268",
+    "question": "Which planet did Gustav Holst describe as the \u2018Winged Messenger\u2019?",
+    "baseline_answer": "Mercury",
+    "rag_answer": "Mercury.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_20621",
+    "question": "Who is the current presenter of BBC Radio 4 programme Desert Island Discs?",
+    "baseline_answer": "Lauren Laverne",
+    "rag_answer": "Kirsty Young.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qz_3027",
+    "question": "Which notorious murderer lived at 10 Rillington Place?",
+    "baseline_answer": "John Christie",
+    "rag_answer": "John Reginald Halliday Christie.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_21369",
+    "question": "The top American fiction bestseller in both 1936 and 1937 was the only novel published during the lifetime of its author. Who was she?",
+    "baseline_answer": "Ernest Hemingway's wife, Hadley Richardson, was not the author. The answer is: Erna Fourmy Porter",
+    "rag_answer": "Margaret Mitchell.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_4851",
+    "question": "Which singer's real name is Elaine Bookbinder?",
+    "baseline_answer": "Ellie Greenwich",
+    "rag_answer": "Elkie Brooks.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qw_3576",
+    "question": "\"Which pair of films starred Uma Thurman as \"\"the bride\"\", Daryl Hannah as her arch-nemesis and Lucy Liu as \"\"Cottonmouth\"\"?\"",
+    "baseline_answer": "Kill Bill",
+    "rag_answer": "Kill Bill",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "sfq_13876",
+    "question": "In the cartoon series, what kind of dog is Scooby Doo?",
+    "baseline_answer": "Great Dane",
+    "rag_answer": "A Great Dane.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "jp_126",
+    "question": "\"What was the Scopes \"\"monkey trial\"\" really about?\"",
+    "baseline_answer": "Evolution vs creationism.",
+    "rag_answer": "The conflict between creationism and evolution.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_13281",
+    "question": "Who was the landlady of the Rovers Return when Coronation Street was first broadcast in 1960?",
+    "baseline_answer": "Elsie Tanner",
+    "rag_answer": "Annie Walker.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "qw_15141",
+    "question": "What dish has romaine lettuce and croutons dressed with parmesan cheese, lemon juice, olive oil, egg, Worcestershire sauce, and black pepper?",
+    "baseline_answer": "Caesar salad",
+    "rag_answer": "Caesar salad.",
+    "n_context_passages": 5
+  },
+  {
+    "question_id": "odql_6518",
+    "question": "In which city, one of the hosts for the 2003 Cricket World Cup, is the Buffalo Park Ground?",
+    "baseline_answer": "Port Elizabeth",
+    "rag_answer": "East London.",
+    "n_context_passages": 5
+  }
+]
